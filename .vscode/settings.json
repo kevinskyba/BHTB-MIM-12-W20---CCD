@@ -1,0 +1,9 @@
+{
+    "markdown-pdf.orientation": "landscape",
+    "markdown-pdf.breaks": true,
+    "markdown-pdf.scale": 0.85,
+    "markdown-pdf.margin.top": "1cm",
+    "markdown-pdf.margin.bottom": "1cm",
+    "markdown-pdf.margin.right": "1cm",
+    "markdown-pdf.margin.left": "1cm",
+}
